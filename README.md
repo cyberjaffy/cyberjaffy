@@ -1,7 +1,7 @@
 ## Hi there, I'm Jafaru 👋
 
 ## 🛠️ About Me
-- 💼 **Cloud Administrator** with expertise in security, networking, and Microsoft 365 administration.
+- 💼 **Cloud Administrator /Devops Engineer** with expertise in security, networking, and Microsoft 365 administration.
 - 🔐 Passionate about building secure and scalable cloud solutions while maintaining network integrity.
 - 🌩️ Skilled in managing hybrid environments, integrating cloud technologies, and optimizing IT infrastructures.
 
